@@ -12,7 +12,7 @@ body {
     animation: bgAnim 10s infinite alternate;
 }
 
-@keyframes bgAnim {
+@keyframes bgAnim { 
     0% { background: linear-gradient(135deg, #ffe6fa, #e3f2ff); }
     100% { background: linear-gradient(135deg, #e3f9ff, #ffe6e6); }
 }
